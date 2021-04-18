@@ -103,9 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-<<<<<<< HEAD
-  repository: git@github.com:mastersure/mastersure.github.io.git
-=======
-  repository: git@github.com:hebaiqiansha/hebaiqiansha.github.io.git
->>>>>>> 3921876 (first commit)
+  repository: git@github.com:MasterSure/mastersure.github.io.git
   branch: main
